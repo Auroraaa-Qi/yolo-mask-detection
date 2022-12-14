@@ -1,7 +1,9 @@
 # yolo-mask-detection
 > EN.601.675 ML final project 2022
 
-Contributor:
+> Ref: https://docs.ultralytics.com/
+
+Contribute:
 
 Haoxuan HUANG hhuan110@jh.edu 
 
